@@ -1,6 +1,6 @@
 {
-  "name": "node-dingtalk-robot",
-  "version": "1.0.0",
+  "name": "dingtalk-robot",
+  "version": "1.0.1",
   "description": "node-dingtalk-robot",
   "main": "index.js",
   "directories": {
