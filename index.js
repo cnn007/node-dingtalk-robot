@@ -3,7 +3,7 @@ const dingtalkrobot = require('./lib/dingtalk_robot')
 
 // 渠道号,每个渠道对应一个access_token
 const ACCESS_TOKEN = {
-    'APP001': 'token'
+    'APP001': ''
 }
 
 const robot = new dingtalkrobot({appid: ACCESS_TOKEN['APP001']}, false)
